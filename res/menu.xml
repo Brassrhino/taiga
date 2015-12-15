@@ -159,6 +159,7 @@
 		<item type="separator"/>
 		<item name="Custom RSS feed" action="SearchTorrents()"/>
 		<item name="NyaaTorrents" action="SearchTorrents(http://www.nyaa.se/?page=rss&amp;cats=1_37&amp;filter=2&amp;term=%title%)"/>
+		<item name="BakaBT" action="SearchTorrents(https://bakabt.me/browse.php?only=0&incomplete=1&lossless=1&hd=1&multiaudio=1&bonus=1&reorder=1&q=%title%)"/>
 	</menu>
 	<!-- Play episode -->
 	<menu name="PlayEpisode">
